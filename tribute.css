@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: rgba(54, 203, 99, 0.836);
+    min-height: 100vh;
+    width:1000px;
+    border: 15px solid black;
+    padding: 50px;
+    margin-left: 150px;
+
+}
+.heading h1{
+    font-size:40px;
+    font-weight: bold;
+    color: black;
+    text-transform: uppercase;
+}
+.heading h4{
+    font-size: 30px;
+    text-align: start;
+}
+
+
+.about{
+    margin-top: 50px;
+
+}
+.about h2
+{
+    font-size: 35px;
+}
+.about p{
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 1.1px;
+    text-align: justify;
+}
+.ask li{
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 1.1px;
+    text-align: justify;
+}
+.ask
+{
+    font-size:28px;
+
+}
+footer{
+    margin: 50px 0;
+}
+footer p{
+    text-align: end;
+}
